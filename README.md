@@ -1,0 +1,1 @@
+# Notes about Transactional Information Systems
